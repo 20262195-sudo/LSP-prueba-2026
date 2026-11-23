@@ -1,0 +1,12 @@
+# Dependencias de la web del Grupo 05.
+# Seleccionar Python 3.11 al desplegar en Streamlit Community Cloud.
+# Versiones de TensorFlow y MediaPipe seleccionadas para una primera prueba.
+streamlit
+streamlit-webrtc
+av
+opencv-python-headless
+mediapipe==0.10.32
+numpy
+scikit-learn
+joblib
+tensorflow==2.21.0

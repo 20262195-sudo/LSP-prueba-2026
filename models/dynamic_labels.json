@@ -1,0 +1,16 @@
+{
+  "labels": [
+    "CALOR",
+    "CAMINAR",
+    "CASA",
+    "COMER",
+    "DORMIR",
+    "ESTUDIAR",
+    "FRIO",
+    "HOLA",
+    "TRABAJAR",
+    "VER"
+  ],
+  "length": 30,
+  "dim": 134
+}
